@@ -8,15 +8,12 @@ const DocumentationTemplate: React.FC<Props> = props => {
   const { frontmatter, html, fileAbsolutePath } = markdownRemark
 
   const filename = useCallback((path: string) => {
-    console.log(path)
     const matches = path.match(/.*\/(.*?)$/)
     if (!matches) return path
     const basename = matches[1]
-    console.log(basename)
-    const filename = `/pdf/DKVDocs-${basename
+    const filename = `/dkv-docs/pdf/DKVDocs-${basename
       .replace('.md', '.pdf')
       .replace(/^\w/, match => match.toUpperCase())}`
-    console.log(filename)
 
     return filename
   }, [])
