@@ -5,6 +5,7 @@ module.exports = {
       'Documentation for setting up a Yamaha Disklavier player piano system',
     author: 'Eric Toler <eric@toler.tech>',
   },
+  pathPrefix: '/dkv-docs',
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-image',
