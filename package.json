@@ -2,7 +2,7 @@
   "name": "dkv-docs",
   "description": "Documentation for setting up a Yamaha Disklavier player piano system",
   "version": "1.0.0",
-  "author": "Eric Toler <eric@toler.tech>",
+  "author": "Erin Toler <erin@toler.tech>",
   "dependencies": {
     "gatsby": "^3.2.1",
     "gatsby-plugin-catch-links": "^3.2.0",

@@ -3,7 +3,7 @@ module.exports = {
     title: 'DKV Docs',
     description:
       'Documentation for setting up a Yamaha Disklavier player piano system',
-    author: 'Eric Toler <eric@toler.tech>',
+    author: 'Erin Toler <erin@toler.tech>',
   },
   pathPrefix: '/dkv-docs',
   plugins: [

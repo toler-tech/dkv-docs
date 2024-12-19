@@ -26,7 +26,7 @@ const Layout: React.FC<Props> = props => {
           <footer className="layout-footer">
             <p>
               Copyright &copy; {new Date().getFullYear()}{' '}
-              <a href="mailto:eric@bluesangelmusic.com">Eric Toler</a>. All
+              <a href="mailto:erin@bluesangelmusic.com">Erin Toler</a>. All
               documentation on this site is free for public use.
             </p>
             <p>

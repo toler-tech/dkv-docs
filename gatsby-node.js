@@ -60,8 +60,8 @@ exports.onPreBootstrap = () => {
         output += `<div class="pdf-footer">
             <p class="logo">Blues Angel Music</p>
             <p>
-              Maintained by Eric Toler<br />
-              eric@bluesangelmusic.com
+              Maintained by Erin Toler<br />
+              erin@bluesangelmusic.com
             </p>
           </div>`
 
