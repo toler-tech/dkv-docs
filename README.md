@@ -7,4 +7,4 @@ installers and are now being made free for public use.
 ## Contributing
 
 There's always room for improvement. Have a suggestion? Open a pull request, or just send an email to
-[Eric Toler](mailto:eric@toler.tech).
+[Erin Toler](mailto:erin@toler.tech).
